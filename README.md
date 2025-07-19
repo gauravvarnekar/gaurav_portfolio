@@ -8,7 +8,7 @@ This is my personal portfolio website built using pure HTML and CSS, showcasing 
 
 🚀 Live Preview
 
-🔗 Click here to view the live website:https://sites.google.com/view/portfoliogaurav--varnekar/gau
+🔗 Click here to view the live website:https://sites.google.com/view/portfoliogaurav--varnekar/gaurav
 
 
 
